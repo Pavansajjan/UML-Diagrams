@@ -1,2 +1,2 @@
 # UseCase-Diagram
-User Case Diagram or Hospital Management System
+User Case Diagram for Hospital Management System
