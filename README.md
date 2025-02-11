@@ -1,2 +1,2 @@
-# UseCase-Diagram
-User Case Diagram for Hospital Management System
+# UML-Diagram
+UMl Diagram for Hospital Management System
